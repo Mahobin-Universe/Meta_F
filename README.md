@@ -2,7 +2,7 @@ __KING-PRO__
 
 __PAID TOOLS__
 
-__FILE+RANDOM+GAMIL___
+__FILE=RANDOM=GAMIL__
 
 </br><img src="https://github.com/FB-KING/KING-PRO/blob/main/Screenshot_20230711-151653.png" />
 ## Run Command 
